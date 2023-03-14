@@ -9,3 +9,9 @@ This is a repository with a Wiki.
 * Shared libraries and modules: `/lib`
 * Standard location for mounting other file systems: `/mnt`, `/media`
 * Kernel and system information: `/dev`, `/proc`, and `/sys`
+
+### Paths on Linux
+
+* A path represents the location of a file or directory
+* Paths use the slash character (`/`) as a separator between directory and file names
+* Paths can be absolute or relative
