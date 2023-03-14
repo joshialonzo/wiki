@@ -56,6 +56,12 @@ Show all files, directories, and other objects in a directory:
 ls
 ```
 
+Set a colorful `ls`:
+
+```bash
+ls --color=always
+```
+
 Show all folders recursively:
 
 ```bash
