@@ -47,3 +47,11 @@ Examples:
 
 * `~/Documents -> /home/scott/Documents`
 * `~/Documents -> /home/your_user/Documents`
+
+### Commands
+
+Show all folders recursively:
+
+```bash
+ls -r Documents
+```
