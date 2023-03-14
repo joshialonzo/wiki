@@ -1,1 +1,11 @@
 This is a repository with a Wiki.
+
+## Linux Notes
+
+### Notable File System Directories
+
+* Common configuration files: `/etc`
+* Common programms or commands: `/bin`, `/sbin`
+* Shared libraries and modules: `/lib`
+* Standard location for mounting other file systems: `/mnt`, `/media`
+* Kernel and system information: `/dev`, `/proc`, and `/sys`
