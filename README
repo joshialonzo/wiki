@@ -15,3 +15,14 @@ This is a repository with a Wiki.
 * A path represents the location of a file or directory
 * Paths use the slash character (`/`) as a separator between directory and file names
 * Paths can be absolute or relative
+
+### Absolute paths
+
+* Begins from the root of the file system
+* Defines an explicit location on the file system
+* A slash at the beginning indicates an absolute path
+
+```bash
+/home/joshi
+/home/joshi/Documents
+```
