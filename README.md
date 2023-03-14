@@ -26,3 +26,15 @@ This is a repository with a Wiki.
 /home/joshi
 /home/joshi/Documents
 ```
+
+### Relative paths
+
+* Begin from the current working directory
+* If the current working directory changes, what the path refers to changes
+* The name `..` refers to the parent directory of the current working directory
+
+|       Working directory | Relative Path  | Resulting Absolute Path |
+|------------------------:|----------------|-------------------------|
+| `/home/scott`           | `..`           | `/home`                 |
+| `/home/scott/Documents` | `..`           | `/home/scott`           |
+| `/home/scott/Pictures`  | `../Documents` | `/home/scott/Documents` |
