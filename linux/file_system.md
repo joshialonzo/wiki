@@ -50,6 +50,12 @@ Examples:
 
 ### Commands
 
+Show all files, directories, and other objects in a directory:
+
+```bash
+ls
+```
+
 Show all folders recursively:
 
 ```bash
