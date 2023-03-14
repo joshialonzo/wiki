@@ -38,3 +38,14 @@ This is a repository with a Wiki.
 | `/home/scott`           | `..`           | `/home`                 |
 | `/home/scott/Documents` | `..`           | `/home/scott`           |
 | `/home/scott/Pictures`  | `../Documents` | `/home/scott/Documents` |
+
+### Tilde expansion
+
+* The tilde character (`~`) refers to the current user's home directory
+* My documents (and your documents) are at the path `~/Documents`
+* The shell expands the character `~` to the path of the user's home directory
+
+Examples:
+
+* `~/Documents -> /home/scott/Documents`
+* `~/Documents -> /home/your_user/Documents`
