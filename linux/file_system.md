@@ -55,3 +55,9 @@ Show all folders recursively:
 ```bash
 ls -r Documents
 ```
+
+Return to the previous directory
+
+```bash
+cd -
+```
