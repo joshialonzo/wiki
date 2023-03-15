@@ -62,6 +62,12 @@ Set a colorful `ls`:
 ls --color=always
 ```
 
+List files and directories with details:
+
+```bash
+ls -l
+```
+
 Show all folders recursively:
 
 ```bash
