@@ -68,6 +68,12 @@ List files and directories with details:
 ls -l
 ```
 
+List files and directories with human-readable size:
+
+```bash
+ls -l -h
+```
+
 Show all folders recursively:
 
 ```bash
