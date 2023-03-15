@@ -85,3 +85,9 @@ Return to the previous directory
 ```bash
 cd -
 ```
+
+Create a new folder
+
+```bash
+mkdir <new_folder>
+```
